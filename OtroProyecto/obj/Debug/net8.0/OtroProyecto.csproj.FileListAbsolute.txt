@@ -1,0 +1,15 @@
+/workspaces/arrr2/OtroProyecto/bin/Debug/net8.0/OtroProyecto
+/workspaces/arrr2/OtroProyecto/bin/Debug/net8.0/OtroProyecto.deps.json
+/workspaces/arrr2/OtroProyecto/bin/Debug/net8.0/OtroProyecto.runtimeconfig.json
+/workspaces/arrr2/OtroProyecto/bin/Debug/net8.0/OtroProyecto.dll
+/workspaces/arrr2/OtroProyecto/bin/Debug/net8.0/OtroProyecto.pdb
+/workspaces/arrr2/OtroProyecto/obj/Debug/net8.0/OtroProyecto.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/arrr2/OtroProyecto/obj/Debug/net8.0/OtroProyecto.AssemblyInfoInputs.cache
+/workspaces/arrr2/OtroProyecto/obj/Debug/net8.0/OtroProyecto.AssemblyInfo.cs
+/workspaces/arrr2/OtroProyecto/obj/Debug/net8.0/OtroProyecto.csproj.CoreCompileInputs.cache
+/workspaces/arrr2/OtroProyecto/obj/Debug/net8.0/OtroProyecto.sourcelink.json
+/workspaces/arrr2/OtroProyecto/obj/Debug/net8.0/OtroProyecto.dll
+/workspaces/arrr2/OtroProyecto/obj/Debug/net8.0/refint/OtroProyecto.dll
+/workspaces/arrr2/OtroProyecto/obj/Debug/net8.0/OtroProyecto.pdb
+/workspaces/arrr2/OtroProyecto/obj/Debug/net8.0/OtroProyecto.genruntimeconfig.cache
+/workspaces/arrr2/OtroProyecto/obj/Debug/net8.0/ref/OtroProyecto.dll
