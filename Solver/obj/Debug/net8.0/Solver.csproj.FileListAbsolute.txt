@@ -1,0 +1,15 @@
+/workspaces/arrr2/Solver/bin/Debug/net8.0/Solver
+/workspaces/arrr2/Solver/bin/Debug/net8.0/Solver.deps.json
+/workspaces/arrr2/Solver/bin/Debug/net8.0/Solver.runtimeconfig.json
+/workspaces/arrr2/Solver/bin/Debug/net8.0/Solver.dll
+/workspaces/arrr2/Solver/bin/Debug/net8.0/Solver.pdb
+/workspaces/arrr2/Solver/obj/Debug/net8.0/Solver.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/arrr2/Solver/obj/Debug/net8.0/Solver.AssemblyInfoInputs.cache
+/workspaces/arrr2/Solver/obj/Debug/net8.0/Solver.AssemblyInfo.cs
+/workspaces/arrr2/Solver/obj/Debug/net8.0/Solver.csproj.CoreCompileInputs.cache
+/workspaces/arrr2/Solver/obj/Debug/net8.0/Solver.sourcelink.json
+/workspaces/arrr2/Solver/obj/Debug/net8.0/Solver.dll
+/workspaces/arrr2/Solver/obj/Debug/net8.0/refint/Solver.dll
+/workspaces/arrr2/Solver/obj/Debug/net8.0/Solver.pdb
+/workspaces/arrr2/Solver/obj/Debug/net8.0/Solver.genruntimeconfig.cache
+/workspaces/arrr2/Solver/obj/Debug/net8.0/ref/Solver.dll
